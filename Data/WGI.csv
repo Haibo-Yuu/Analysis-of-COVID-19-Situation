@@ -1,0 +1,215 @@
+﻿Country/Territory,Code,Estimate
+Aruba,ABW,1.06
+Andorra,ADO,1.94
+Afghanistan,AFG,-1.46
+Angola,AGO,-1.05
+Anguilla,AIA,0.83
+Albania,ALB,0.11
+Netherlands Antilles (former),ANT,#N/A
+United Arab Emirates,ARE,1.43
+Argentina,ARG,0.03
+Armenia,ARM,-0.02
+American Samoa,ASM,0.55
+Antigua and Barbuda,ATG,-0.01
+Australia,AUS,1.60
+Austria,AUT,1.45
+Azerbaijan,AZE,-0.10
+Burundi,BDI,-1.42
+Belgium,BEL,1.17
+Benin,BEN,-0.57
+Burkina Faso,BFA,-0.58
+Bangladesh,BGD,-0.75
+Bulgaria,BGR,0.27
+Bahrain,BHR,0.18
+"Bahamas, The",BHS,0.54
+Bosnia and Herzegovina,BIH,-0.62
+Belarus,BLR,-0.30
+Belize,BLZ,-0.59
+Bermuda,BMU,1.39
+Bolivia,BOL,-0.32
+Brazil,BRA,-0.45
+Barbados,BRB,0.43
+Brunei Darussalam,BRN,1.25
+Bhutan,BTN,0.36
+South Sudan,SSD,-2.45
+Botswana,BWA,0.33
+Central African Republic,CAF,-1.72
+Canada,CAN,1.72
+Switzerland,CHE,2.04
+Chile,CHL,1.08
+China,CHN,0.48
+Côte d'Ivoire,CIV,-0.57
+Cameroon,CMR,-0.80
+"Congo, Rep.",COG,-1.22
+Cook Islands,COK,#N/A
+Colombia,COL,-0.09
+Comoros,COM,-1.64
+Cape Verde,CPV,0.32
+Costa Rica,CRI,0.38
+Cuba,CUB,-0.24
+Cayman Islands,CYM,1.20
+Cyprus,CYP,0.92
+Czech Republic,CZE,0.92
+Germany,DEU,1.62
+Djibouti,DJI,-0.90
+Dominica,DMA,-0.29
+Denmark,DNK,1.87
+Dominican Republic,DOM,-0.40
+Algeria,DZA,-0.44
+Ecuador,ECU,-0.26
+"Egypt, Arab Rep.",EGY,-0.58
+Eritrea,ERI,-1.73
+Spain,ESP,1.00
+Estonia,EST,1.19
+Ethiopia,ETH,-0.61
+Finland,FIN,1.98
+Fiji,FJI,0.26
+France,FRA,1.48
+"Micronesia, Fed. Sts.",FSM,-0.15
+Gabon,GAB,-0.81
+United Kingdom,GBR,1.34
+Georgia,GEO,0.61
+Ghana,GHA,-0.21
+Guinea,GIN,-0.97
+"Gambia, The",GMB,-0.62
+Guinea-Bissau,GNB,-1.49
+Equatorial Guinea,GNQ,-1.29
+Greece,GRC,0.34
+Grenada,GRD,-0.25
+Greenland,GRL,0.84
+Guatemala,GTM,-0.68
+French Guiana,GUF,1.40
+Guam,GUM,0.27
+Guyana,GUY,-0.27
+"Hong Kong SAR, China",HKG,1.90
+Honduras,HND,-0.62
+Croatia,HRV,0.46
+Haiti,HTI,-1.91
+Hungary,HUN,0.49
+Indonesia,IDN,0.18
+India,IND,0.28
+Ireland,IRL,1.42
+"Iran, Islamic Rep.",IRN,-0.43
+Iraq,IRQ,-1.32
+Iceland,ISL,1.47
+Israel,ISR,1.21
+Italy,ITA,0.41
+Jamaica,JAM,0.50
+Jordan,JOR,0.11
+Japan,JPN,1.68
+Kazakhstan,KAZ,0.02
+Kenya,KEN,-0.41
+Kyrgyz Republic,KGZ,-0.61
+Cambodia,KHM,-0.57
+Kiribati,KIR,-0.28
+St. Kitts and Nevis,KNA,0.55
+"Korea, Rep.",KOR,1.18
+Kuwait,KWT,-0.09
+Lao PDR,LAO,-0.67
+Lebanon,LBN,-0.64
+Liberia,LBR,-1.34
+Libya,LBY,-1.85
+St. Lucia,LCA,0.20
+Liechtenstein,LIE,1.74
+Sri Lanka,LKA,-0.24
+Lesotho,LSO,-0.86
+Lithuania,LTU,1.07
+Luxembourg,LUX,1.78
+Latvia,LVA,1.04
+Kosovo,KSV,-0.43
+"Macao SAR, China",MAC,1.20
+Morocco,MAR,-0.21
+Monaco,MCO,#N/A
+Moldova,MDA,-0.47
+Madagascar,MDG,-1.15
+Maldives,MDV,-0.49
+Mexico,MEX,-0.15
+Marshall Islands,MHL,-1.55
+"Macedonia, FYR",MKD,0.09
+Mali,MLI,-1.00
+Malta,MLT,0.97
+Myanmar,MMR,-1.07
+Mongolia,MNG,-0.23
+Montenegro,MNE,0.13
+Mozambique,MOZ,-0.87
+Mauritania,MRT,-0.73
+Martinique,MTQ,1.11
+Mauritius,MUS,0.88
+Malawi,MWI,-0.73
+Malaysia,MYS,1.08
+Namibia,NAM,0.11
+Niger,NER,-0.77
+Nigeria,NGA,-1.02
+Nicaragua,NIC,-0.80
+Niue,NIU,#N/A
+Netherlands,NLD,1.85
+Norway,NOR,1.89
+Nepal,NPL,-0.90
+Nauru,NRU,-0.08
+New Zealand,NZL,1.67
+Oman,OMN,0.19
+Pakistan,PAK,-0.63
+Panama,PAN,-0.02
+Palau,PLW,-0.01
+Peru,PER,-0.25
+Philippines,PHL,0.05
+Papua New Guinea,PNG,-0.68
+Poland,POL,0.66
+Puerto Rico,PRI,-0.16
+"Korea, Dem. Rep.",PRK,-1.57
+Portugal,PRT,1.21
+Paraguay,PRY,-0.52
+Qatar,QAT,0.63
+Réunion,REU,1.11
+Romania,ROM,-0.25
+Russian Federation,RUS,-0.06
+Rwanda,RWA,0.21
+Samoa,WSM,0.59
+Saudi Arabia,SAU,0.32
+Sudan,SDN,-1.62
+Senegal,SEN,-0.27
+Singapore,SGP,2.23
+Solomon Islands,SLB,-1.05
+Sierra Leone,SLE,-1.14
+El Salvador,SLV,-0.45
+San Marino,SMR,#N/A
+Somalia,SOM,-2.19
+São Tomé and Principe,STP,-0.64
+Suriname,SUR,-0.66
+Slovak Republic,SVK,0.71
+Slovenia,SVN,1.13
+Sweden,SWE,1.83
+Swaziland,SWZ,-0.66
+Seychelles,SYC,0.50
+Syrian Arab Republic,SYR,-1.67
+Chad,TCD,-1.53
+Togo,TGO,-1.06
+Thailand,THA,0.35
+Tajikistan,TJK,-1.10
+Turkmenistan,TKM,-1.04
+Timor-Leste,TMP,-0.98
+Tonga,TON,0.14
+Trinidad and Tobago,TTO,0.19
+Tunisia,TUN,-0.11
+Turkey,TUR,0.01
+Tuvalu,TUV,-0.69
+"Taiwan, China",TWN,1.36
+Tanzania,TZA,-0.76
+Uganda,UGA,-0.61
+Ukraine,UKR,-0.42
+Uruguay,URY,0.56
+United States,USA,1.58
+Uzbekistan,UZB,-0.55
+St. Vincent and the Grenadines,VCT,0.20
+"Venezuela, RB",VEN,-1.58
+Virgin Islands (U.S.),VIR,0.83
+Vietnam,VNM,0.00
+Vanuatu,VUT,-0.49
+West Bank and Gaza,WBG,-0.76
+"Jersey, Channel Islands",JEY,1.26
+"Yemen, Rep.",YEM,-2.24
+Serbia,SRB,0.11
+South Africa,ZAF,0.34
+"Congo, Dem. Rep.",ZAR,-1.55
+Zambia,ZMB,-0.56
+Zimbabwe,ZWE,-1.20

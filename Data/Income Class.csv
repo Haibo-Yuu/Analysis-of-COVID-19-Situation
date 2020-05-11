@@ -1,0 +1,1080 @@
+GroupCode,GroupName,CountryCode,CountryName
+HIC,High income,ABW,Aruba
+HIC,High income,AND,Andorra
+HIC,High income,ARE,United Arab Emirates
+HIC,High income,ATG,Antigua and Barbuda
+HIC,High income,AUS,Australia
+HIC,High income,AUT,Austria
+HIC,High income,BEL,Belgium
+HIC,High income,BHR,Bahrain
+HIC,High income,BHS,"Bahamas, The"
+HIC,High income,BMU,Bermuda
+HIC,High income,BRB,Barbados
+HIC,High income,BRN,Brunei Darussalam
+HIC,High income,CAN,Canada
+HIC,High income,CHE,Switzerland
+HIC,High income,CHI,Channel Islands
+HIC,High income,CHL,Chile
+HIC,High income,CUW,Curacao
+HIC,High income,CYM,Cayman Islands
+HIC,High income,CYP,Cyprus
+HIC,High income,CZE,Czech Republic
+HIC,High income,DEU,Germany
+HIC,High income,DNK,Denmark
+HIC,High income,ESP,Spain
+HIC,High income,EST,Estonia
+HIC,High income,FIN,Finland
+HIC,High income,FRA,France
+HIC,High income,FRO,Faroe Islands
+HIC,High income,GBR,United Kingdom
+HIC,High income,GIB,Gibraltar
+HIC,High income,GRC,Greece
+HIC,High income,GRL,Greenland
+HIC,High income,GUM,Guam
+HIC,High income,HKG,"Hong Kong SAR, China"
+HIC,High income,HRV,Croatia
+HIC,High income,HUN,Hungary
+HIC,High income,IMN,Isle of Man
+HIC,High income,IRL,Ireland
+HIC,High income,ISL,Iceland
+HIC,High income,ISR,Israel
+HIC,High income,ITA,Italy
+HIC,High income,JPN,Japan
+HIC,High income,KNA,St. Kitts and Nevis
+HIC,High income,KOR,"Korea, Rep."
+HIC,High income,KWT,Kuwait
+HIC,High income,LIE,Liechtenstein
+HIC,High income,LTU,Lithuania
+HIC,High income,LUX,Luxembourg
+HIC,High income,LVA,Latvia
+HIC,High income,MAC,"Macao SAR, China"
+HIC,High income,MAF,St. Martin (French part)
+HIC,High income,MCO,Monaco
+HIC,High income,MLT,Malta
+HIC,High income,MNP,Northern Mariana Islands
+HIC,High income,NCL,New Caledonia
+HIC,High income,NLD,Netherlands
+HIC,High income,NOR,Norway
+HIC,High income,NZL,New Zealand
+HIC,High income,OMN,Oman
+HIC,High income,PAN,Panama
+HIC,High income,PLW,Palau
+HIC,High income,POL,Poland
+HIC,High income,PRI,Puerto Rico
+HIC,High income,PRT,Portugal
+HIC,High income,PYF,French Polynesia
+HIC,High income,QAT,Qatar
+HIC,High income,SAU,Saudi Arabia
+HIC,High income,SGP,Singapore
+HIC,High income,SMR,San Marino
+HIC,High income,SVK,Slovak Republic
+HIC,High income,SVN,Slovenia
+HIC,High income,SWE,Sweden
+HIC,High income,SXM,Sint Maarten (Dutch part)
+HIC,High income,SYC,Seychelles
+HIC,High income,TCA,Turks and Caicos Islands
+HIC,High income,TTO,Trinidad and Tobago
+HIC,High income,TWN,"Taiwan, China"
+HIC,High income,URY,Uruguay
+HIC,High income,USA,United States
+HIC,High income,VGB,British Virgin Islands
+HIC,High income,VIR,Virgin Islands (U.S.)
+LIC,Low income,AFG,Afghanistan
+LIC,Low income,BDI,Burundi
+LIC,Low income,BEN,Benin
+LIC,Low income,BFA,Burkina Faso
+LIC,Low income,CAF,Central African Republic
+LIC,Low income,COD,"Congo, Dem. Rep."
+LIC,Low income,ERI,Eritrea
+LIC,Low income,ETH,Ethiopia
+LIC,Low income,GIN,Guinea
+LIC,Low income,GMB,"Gambia, The"
+LIC,Low income,GNB,Guinea-Bissau
+LIC,Low income,HTI,Haiti
+LIC,Low income,LBR,Liberia
+LIC,Low income,MDG,Madagascar
+LIC,Low income,MLI,Mali
+LIC,Low income,MOZ,Mozambique
+LIC,Low income,MWI,Malawi
+LIC,Low income,NER,Niger
+LIC,Low income,NPL,Nepal
+LIC,Low income,PRK,"Korea, Dem. People's Rep."
+LIC,Low income,RWA,Rwanda
+LIC,Low income,SLE,Sierra Leone
+LIC,Low income,SOM,Somalia
+LIC,Low income,SSD,South Sudan
+LIC,Low income,SYR,Syrian Arab Republic
+LIC,Low income,TCD,Chad
+LIC,Low income,TGO,Togo
+LIC,Low income,TJK,Tajikistan
+LIC,Low income,TZA,Tanzania
+LIC,Low income,UGA,Uganda
+LIC,Low income,YEM,"Yemen, Rep."
+MIC,Middle income,AGO,Angola
+MIC,Middle income,ALB,Albania
+MIC,Middle income,ARG,Argentina
+MIC,Middle income,ARM,Armenia
+MIC,Middle income,ASM,American Samoa
+MIC,Middle income,AZE,Azerbaijan
+MIC,Middle income,BGD,Bangladesh
+MIC,Middle income,BGR,Bulgaria
+MIC,Middle income,BIH,Bosnia and Herzegovina
+MIC,Middle income,BLR,Belarus
+MIC,Middle income,BLZ,Belize
+MIC,Middle income,BOL,Bolivia
+MIC,Middle income,BRA,Brazil
+MIC,Middle income,BTN,Bhutan
+MIC,Middle income,BWA,Botswana
+MIC,Middle income,CHN,China
+MIC,Middle income,CIV,Cote d'Ivoire
+MIC,Middle income,CMR,Cameroon
+MIC,Middle income,COG,"Congo, Rep."
+MIC,Middle income,COL,Colombia
+MIC,Middle income,COM,Comoros
+MIC,Middle income,CPV,Cabo Verde
+MIC,Middle income,CRI,Costa Rica
+MIC,Middle income,CUB,Cuba
+MIC,Middle income,DJI,Djibouti
+MIC,Middle income,DMA,Dominica
+MIC,Middle income,DOM,Dominican Republic
+MIC,Middle income,DZA,Algeria
+MIC,Middle income,ECU,Ecuador
+MIC,Middle income,EGY,"Egypt, Arab Rep."
+MIC,Middle income,FJI,Fiji
+MIC,Middle income,FSM,"Micronesia, Fed. Sts."
+MIC,Middle income,GAB,Gabon
+MIC,Middle income,GEO,Georgia
+MIC,Middle income,GHA,Ghana
+MIC,Middle income,GNQ,Equatorial Guinea
+MIC,Middle income,GRD,Grenada
+MIC,Middle income,GTM,Guatemala
+MIC,Middle income,GUY,Guyana
+MIC,Middle income,HND,Honduras
+MIC,Middle income,IDN,Indonesia
+MIC,Middle income,IND,India
+MIC,Middle income,IRN,"Iran, Islamic Rep."
+MIC,Middle income,IRQ,Iraq
+MIC,Middle income,JAM,Jamaica
+MIC,Middle income,JOR,Jordan
+MIC,Middle income,KAZ,Kazakhstan
+MIC,Middle income,KEN,Kenya
+MIC,Middle income,KGZ,Kyrgyz Republic
+MIC,Middle income,KHM,Cambodia
+MIC,Middle income,KIR,Kiribati
+MIC,Middle income,LAO,Lao PDR
+MIC,Middle income,LBN,Lebanon
+MIC,Middle income,LBY,Libya
+MIC,Middle income,LCA,St. Lucia
+MIC,Middle income,LKA,Sri Lanka
+MIC,Middle income,LSO,Lesotho
+MIC,Middle income,MAR,Morocco
+MIC,Middle income,MDA,Moldova
+MIC,Middle income,MDV,Maldives
+MIC,Middle income,MEX,Mexico
+MIC,Middle income,MHL,Marshall Islands
+MIC,Middle income,MKD,North Macedonia
+MIC,Middle income,MMR,Myanmar
+MIC,Middle income,MNE,Montenegro
+MIC,Middle income,MNG,Mongolia
+MIC,Middle income,MRT,Mauritania
+MIC,Middle income,MUS,Mauritius
+MIC,Middle income,MYS,Malaysia
+MIC,Middle income,NAM,Namibia
+MIC,Middle income,NGA,Nigeria
+MIC,Middle income,NIC,Nicaragua
+MIC,Middle income,NRU,Nauru
+MIC,Middle income,PAK,Pakistan
+MIC,Middle income,PER,Peru
+MIC,Middle income,PHL,Philippines
+MIC,Middle income,PNG,Papua New Guinea
+MIC,Middle income,PRY,Paraguay
+MIC,Middle income,PSE,West Bank and Gaza
+MIC,Middle income,ROU,Romania
+MIC,Middle income,RUS,Russian Federation
+MIC,Middle income,SDN,Sudan
+MIC,Middle income,SEN,Senegal
+MIC,Middle income,SLB,Solomon Islands
+MIC,Middle income,SLV,El Salvador
+MIC,Middle income,SRB,Serbia
+MIC,Middle income,STP,Sao Tome and Principe
+MIC,Middle income,SUR,Suriname
+MIC,Middle income,SWZ,Eswatini
+MIC,Middle income,THA,Thailand
+MIC,Middle income,TKM,Turkmenistan
+MIC,Middle income,TLS,Timor-Leste
+MIC,Middle income,TON,Tonga
+MIC,Middle income,TUN,Tunisia
+MIC,Middle income,TUR,Turkey
+MIC,Middle income,TUV,Tuvalu
+MIC,Middle income,UKR,Ukraine
+MIC,Middle income,UZB,Uzbekistan
+MIC,Middle income,VCT,St. Vincent and the Grenadines
+MIC,Middle income,VEN,"Venezuela, RB"
+MIC,Middle income,VNM,Vietnam
+MIC,Middle income,VUT,Vanuatu
+MIC,Middle income,WSM,Samoa
+MIC,Middle income,XKX,Kosovo
+MIC,Middle income,ZAF,South Africa
+MIC,Middle income,ZMB,Zambia
+MIC,Middle income,ZWE,Zimbabwe
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
